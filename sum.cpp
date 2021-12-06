@@ -8,6 +8,8 @@ int main(int argc, char** argv)
 		total += atoi(argv[i]);
 
 	cout << "Sum = " << total;
+	// new comment 
 
 	return 0;
 }
+
